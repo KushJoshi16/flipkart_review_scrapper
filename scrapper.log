@@ -1,0 +1,26 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.67:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:37:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:37:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:37:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'mouse', 'Name': 'Dharmendra singh Rana', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'very good but small in size but very good and company Is also good I like this mouse very much and   very adorable plz buy'}, {'Product': 'mouse', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'product is good quality so small but easy to use and carry liked the product so cute'}, {'Product': 'mouse', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Good quality and good work so beautifull mouse and thank you Flipkart.'}, {'Product': 'mouse', 'Name': 'Subhadeep Biswas', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Mouse size is on smaller size, but response good... Comfortable in hand...'}, {'Product': 'mouse', 'Name': 'Smiley', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Lovely❤️'}, {'Product': 'mouse', 'Name': 'irfan  khan', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Good quality,  mouse wire more than 1 metre.'}, {'Product': 'mouse', 'Name': 'Abirami C', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Mouse is so smaall, but its working properly, good.'}, {'Product': 'mouse', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Very good very nice'}, {'Product': 'mouse', 'Name': 'Ankit Patel', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Best byyyy love ❤️❤️ it'}, {'Product': 'mouse', 'Name': 'Shakuntala Kakde', 'Rating': '1', 'CommentHead': 'Worst experience ever!', 'Comment': "Its so small that even don't fit to fist and very difficult to operate. At the end it is the responsibility of the Flipkart that the page should have had the size description and the comparison for buyer to take decision which was not available."}, {'Product': 'mouse', 'Name': 'Shakuntala Kakde', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Its so small that even don't fit to fist and very difficult to operate. At the end it is the responsibility of the Flipkart that the page should have had the size description and the comparison for buyer to take decision which was not available."}]
+INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:37:46] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:37:46] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:37:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.67:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:54:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:54:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:54:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:55:01] "POST /review HTTP/1.1" 200 -
